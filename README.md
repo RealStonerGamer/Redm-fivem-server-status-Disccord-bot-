@@ -33,8 +33,8 @@ LOG_CHANNEL - channel to log status changes
 
 
 
-Credits
-Roque https://github.com/RoqueDEV
-Douile https://github.com/Douile
-drazero https://github.com/draZer0
-Robin-RoqueDEV https://github.com/RoqueDEV/fivemserverstatus
+##Credits
+1. Roque https://github.com/RoqueDEV
+2. Douile https://github.com/Douile
+3 drazero https://github.com/draZer0
+4. Robin-RoqueDEV https://github.com/RoqueDEV/fivemserverstatus
