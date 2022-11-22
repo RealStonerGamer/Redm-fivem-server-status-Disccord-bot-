@@ -1,4 +1,4 @@
-{"URL_SERVER":"http://66.70.181.112:37110",
+{"URL_SERVER":"http://serverip:port",
   "LOG_LEVEL":"2",
   "BOT_TOKEN":"your token ",
   "CHANNEL_ID":"1044484495212036166",
