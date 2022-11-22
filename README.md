@@ -1,6 +1,9 @@
 # Redm-fivem-server-status-Disccord-bot-
 Redm /fivem server status Disccord bot 
 
+translated to Eng
+
+
 
 originalcode by : Robin-RoqueDEV https://github.com/RoqueDEV/fivemserverstatus
 
